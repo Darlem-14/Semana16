@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "cliente": "Admin",
+        "total": 3.5,
+        "productos": [
+            {
+                "id": 2,
+                "nombre": "Papas Fritas",
+                "precio": 2.0,
+                "cantidad": 1
+            },
+            {
+                "id": 3,
+                "nombre": "Refresco Cola",
+                "precio": 1.5,
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "cliente": "Cliente Juan",
+        "total": 16.5,
+        "productos": [
+            {
+                "id": 2,
+                "nombre": "Papas Fritas",
+                "precio": 2.0,
+                "cantidad": 3
+            },
+            {
+                "id": 3,
+                "nombre": "Refresco Cola",
+                "precio": 1.5,
+                "cantidad": 7
+            }
+        ]
+    }
+]
